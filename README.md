@@ -21,3 +21,6 @@ npm i axios
 
 npm start
 ```
+
+---
+[Full Documentation](https://www.procoding.org/httponly-cookie-in-django/)
